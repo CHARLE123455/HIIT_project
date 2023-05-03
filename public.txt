@@ -1,0 +1,1 @@
+This is the aspect of the code that will be made available for the consumption of everybody.
